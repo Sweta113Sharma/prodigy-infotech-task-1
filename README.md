@@ -1,8 +1,7 @@
 # prodigy-infotech-task-1
 This repository is about a task which i was asked to perform for my virtual internship at prodigy infotech.
 
-Task 1 Create detailed test cases in markdown format for a calculator taht performs add, subtract, multiply 
-,and divide operations.focus on valid inputs (e.g. positive and negative numbers, decimals, BODMAS)and invalid inputs(e.g. non- numeric characters ,division by zero).each test case should include the following elements 
+Task 1 Create detailed test cases in markdown format for a calculator taht performs add, subtract, multiply, and divide operations.Focus on valid inputs (e.g. positive and negative numbers, decimals, BODMAS)and invalid inputs(e.g. non- numeric characters ,division by zero).Each test case should include the following elements 
 
 Test Case 1: Addition with Positive Numbers
 
