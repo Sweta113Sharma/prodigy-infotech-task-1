@@ -87,3 +87,26 @@ Test Case 6: BODMAS/Order of Operations
 6.	Press =
 •	Expected Result:
 •	Display shows 14 (since multiplication is performed before addition: 2+(3×4)=142+(3×4)=14)
+_________________________________________________________________________________________________________
+Test Case 7. Division with Decimal Result
+•	Test Case ID: TC_DIV_02
+•	Description: Verify division resulting in a decimal value.
+•	Steps:
+1.	Enter 5
+2.	Press ÷
+3.	Enter 2
+4.	Press =
+•	Expected Result: Display shows 2.5
+_________________________________________________________________________________________________________
+
+Test Case 8. Large Number Calculation
+•	Test Case ID: TC_LARGE_01
+•	Description: Verify handling of very large numbers.
+•	Steps:
+1.	Enter 999999999
+2.	Press +
+3.	Enter 1
+4.	Press =
+•	Expected Result: Display shows 1000000000 (or handles overflow gracefully if applicable).
+________________________________________________________________________________________________________
+
